@@ -1,0 +1,40 @@
+# Setup
+title:            Matthew Kvalheim
+tagline:          'Welcome!'
+baseurl:          /~kvalheim/ # change to /~uniqname/ 
+author:
+  name:           Matthew Kvalheim
+  url:            www.birds.eecs.umich.edu/
+  email:          kvalheim@seas.upenn.edu
+
+pages_list:
+#  Teaching: 'teaching'
+#  Publications: 'publications'
+  Research: 'research'
+
+highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink:        pretty
+
+colors:
+  UmmaTan: '#cfc096'
+  BurtonTowerBeige: '#9b9a6d'
+  TheRockGray: '#989c97'
+  ObservatoryWhite: '#e4e1df'
+  AngellHallAsh: '#a79d96'
+  LawQuadStone: '#655a52'
+  HillBrown: '#7a121c'
+  LSAOrange: '#cc6600'
+  ArchwayIvy: '#7e732f'
+  RackhamRoofGreen: '#83b2a8'
+  CanhamPoolBlue: '#587abc'
+  MatthaeiViolet: '#575294'
+  Blue: '#003366'
+
+  gems: [jekyll-paginate, jekyll-gist]
+
