@@ -1,11 +1,11 @@
 # Setup
 title:            Matthew Kvalheim
 tagline:          'Welcome!'
-baseurl:          /~kvalheim/ # change to /~uniqname/ 
+baseurl:          /mdkvalheim.github.io/ # change to /~uniqname/ 
 author:
   name:           Matthew Kvalheim
-  url:            www.birds.eecs.umich.edu/
-  email:          kvalheim@seas.upenn.edu
+  url:            https://<USERNAME>.github.io/
+  email:          kvalheim@umich.edu
 
 pages_list:
 #  Teaching: 'teaching'
