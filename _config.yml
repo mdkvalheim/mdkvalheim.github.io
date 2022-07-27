@@ -1,7 +1,7 @@
 # Setup
 title:            Matthew Kvalheim
 tagline:          'Welcome!'
-baseurl:          /
+baseurl:          
 author:
   name:           Matthew Kvalheim
   url:            https://mdkvalheim.github.io/
