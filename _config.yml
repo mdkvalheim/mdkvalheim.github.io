@@ -4,7 +4,7 @@ tagline:          'Welcome!'
 baseurl:          
 author:
   name:           Matthew Kvalheim
-  url:            https://mdkvalheim.github.io/
+  url:            mdkvalheim.github.io
   email:          kvalheim@umich.edu
 
 pages_list:
