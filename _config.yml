@@ -1,10 +1,10 @@
 # Setup
 title:            Matthew Kvalheim
 tagline:          'Welcome!'
-baseurl:          mdkvalheim.github.io
+baseurl:          /
 author:
   name:           Matthew Kvalheim
-  url:            https://<USERNAME>.github.io/
+  url:            https://mdkvalheim.github.io/
   email:          kvalheim@umich.edu
 
 pages_list:
