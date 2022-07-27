@@ -1,4 +1,7 @@
-@import "";
+---
+---
+
+@import "{{ site.theme }}";
 
 .img-circle {
     border-radius: 50%;
