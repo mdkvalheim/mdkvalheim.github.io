@@ -9,15 +9,12 @@ title: Research
 
 I like to think about interesting mathematical problems arising from those in the physical universe.
 
-My research interests are nonlinear systems in general, and in particular dynamics and control, geometry and topology, and stochastic processes.
+My research interests are nonlinear systems in general and, in particular, dynamics and control, geometry and topology, and stochastic processes.
 
 Specific topics related to my work: the feedback stabilization problem in control theory, Koopman operator theory, data-driven algorithms, closed one-forms in dynamics, Morse/Conley theory, stochastic processes and topology, invariant manifolds, bifurcations, and geometric mechanics.
 
 ---
 ## Published or accepted journal papers:
-* **A generalization of the Hopf degree theorem**.
-    Matthew D. Kvalheim.
-    Proceedings of the American Mathematical Society, Accepted (2022). ([arxiv][24])
 * **Planning of obstacle-aided navigation for multi-legged robots using a sampling-based method over directed graphs**.
    Kaustav Chakraborty, Haodi Hu, Matthew D. Kvalheim, and Feifei Qian.
    IEEE Robotics and Automation Letters, Accepted (2022). ([article][27])
@@ -44,7 +41,9 @@ Specific topics related to my work: the feedback stabilization problem in contro
 
 ---
 ##  Submitted journal papers and selected other preprints:
-
+* **A generalization of the Hopf degree theorem**.
+    Matthew D. Kvalheim.
+    (2022). ([arxiv][24])
 * **Obstructions to asymptotic stabilization**.
     Matthew D. Kvalheim.
     (2022). ([arxiv][25])

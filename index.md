@@ -20,7 +20,7 @@ Here is my **[CV](assets/Kvalheim_CV.pdf)**.
 ---
 
 I am a postdoctoral Assistant Professor in the [Department of Mathematics][19] at the [University of Michigan][3]. 
-My **[research](https://mdkvalheim.github.io/research/)** interests are nonlinear systems in general, and in particular dynamics and control, geometry and topology, and stochastic processes.
+My **[research](https://mdkvalheim.github.io/research/)** interests are nonlinear systems in general and, in particular, dynamics and control, geometry and topology, and stochastic processes.
 
 ---
 
