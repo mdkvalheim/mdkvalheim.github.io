@@ -1,15 +1,3 @@
----
-name:  George Council
-categories: current
-level: graduate
-uniquename: gcouncil
-title: Ph.D Candidate
-major: "Electrical Engineering: Systems, focus: Control"
-srtdateYM: 201201
-bio:  George Council orginally entered the University of Michigan as a terminal Master's student, but was sufficiently enticed by honeyed promises of low pay, long hours, and interesting problems to enroll in the doctoral program during the winter of 2013. With an undergraduate degree from Montana State University in electrical engineering, he'll occasionally lay claim to that title, but has interests ranging from abstract math to field ecology. His primary responsibilities include breaking things and asking questions.
-education: "B.S. in Electrical Engineering 2012 - Montana State University, Bozeman. <br> M.S. in Electrical Engineering: Systems 2013 - University of Michigan, Ann Arbor."
----
-
 <h4>Research Interests</h4>
 <br>
 His research direction is focused on the genesis, description, and instantiation of dynamical behaviors that are robust to uncertainty; specifically, in robotic legged locomotion. Robots are faced with with unanticipated challenges in their environment (rough ground, obstacles, etc) as well as morphological variation (imprecision in construction, damage during operation). Creating and demonstrating locomotion strategies or design principles to overcome these realities is an important component of deploying practical walking robots that operate autonomously (or at least, remotely) in the field. Existing techniques developed by acting roboticists tend to rely on sensing knowledge and feedback to measure and respond to changes in the robots performance. By representing the robot as a dynamical system (an ordinary differential equation), George hopes to create abstract design principles that allow legged robots to mitigate environmental and structural variation without relying on complex sensing or feedback, but instead have 'baked-in' performance guarantees.
@@ -39,4 +27,4 @@ Again, motivated by biology for two reasons, 1) organisms change over time, and 
 
 <h6>Rhex WITHOUT a Buehler Clock</h6>
 <br>
-A larger-scale project that ranges from foundational theory to experimental validation using event-selected vector fields to synthesize a alternating tripod gait for a RHex-type robot without using reference trajectory tracking. A more detailed description is <a href="{{site.url}}/research/synchronization.html">here</a>
+A larger-scale project that ranges from foundational theory to experimental validation using event-selected vector fields to synthesize a alternating tripod gait for a RHex-type robot without using reference trajectory tracking. A more detailed description is <a href="/research/synchronization.html">here</a>
