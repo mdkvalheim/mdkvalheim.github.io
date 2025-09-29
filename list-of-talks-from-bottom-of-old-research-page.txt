@@ -1,0 +1,23 @@
+## Selected talks:
+* M. D. Kvalheim. "*Linearizability of dynamical systems by embeddings.*" Invited talk, Joint Mathematics Meetings (2024). San Francisco, CA, USA. <!--([<u>slides</u>](/assets/jmm-slides.pdf))-->
+* M. D. Kvalheim. "*Discovering engineering (im)possibilities with geometry and topology.*" Invited talk, [<u>University of Pennsylvania GRASP SFI Seminar</u>][38] (2023). Philadelphia, PA, USA. <!--([<u>video</u>][40], [<u>slides</u>](/assets/kvalheim-grasp-sfi-2023-handout.pdf))-->
+* M. D. Kvalheim. "*Asymptotic stabilizability.*" Invited talk, [<u>BIRS workshop Geometry, Topology and Control System Design</u>][35] (2023). Banff, AB, Canada. <!--([<u>slides</u>](/assets/banff-2023.pdf))-->
+* M. D. Kvalheim. "*Existence and uniqueness of Koopman eigenfunctions near stable equilibria and limit cycles.*" Invited talk, International Symposium on Nonlinear Theory and Its Applications (NOLTA 2022). Online. <!--([<u>slides</u>](/assets/NOLTA2022.pdf))-->
+* M. D. Kvalheim. "*Large deviations, persistent homology, and Brownian conductors with negative resistance.*" Invited talk, Cornell University Probability Seminar (2022). Online. 
+* M. D. Kvalheim. "*When can hybrid systems operate safely?*" Invited talk, University of Michigan Control Seminar (2022). Online. 
+* M. D. Kvalheim. "*Flux in small noise dynamics: persistence and negative resistance.*" Invited talk, Brown University, Division of Applied Mathematics (2022). Online. 
+* S. Burden and M. D. Kvalheim. "*When and how are hybrid dynamical systems conjugate to their classical quotients?*" Invited talk, SIAM Conference on Control and its Applications (2021). Online.
+* M. D. Kvalheim. "*Towards a Conley theory for hybrid dynamical systems.*" Invited talk, Rutgers TRIPODS/DATA-INSPIRE Workshop on Dynamics, Topology, and Robotic Control (2021). Online. <!--([<u>video</u>][39])-->
+* M. D. Kvalheim. "*Hierarchical Composition via Collapse of Dimension in Dynamical Systems.*" Invited talk, ETH Z&#252;rich Autonomy Talks (2021). Online. 
+* A. M. Bloch and M. D. Kvalheim. "*Geometry and dynamics of circulant systems.*" Invited talk, AMS sectional meeting, special session on Geometric Dynamics (2020). Online.
+* M. D. Kvalheim, P. Gustafson, D. Koditschek. "*Toward a task planning theory for robot hybrid dynamics.*" Invited talk, BIRS-CMO workshop on Topological Complexity and Motion Planning (2020). Online.
+* M. D. Kvalheim, S. Wilshin, C. Scott, and S. Revzen. "*Isochrons from short, noisy data.* Invited talk, Dynamics Days Europe (2020). Online. 
+* M. D. Kvalheim and S. Revzen. "*Reduced-order models for locomotion in the perturbed Stokes regime.*" Invited talk, SIAM Conference on Applications of Dynamical Systems (2019). Snowbird, UT.
+
+<!--* M. Kvalheim and S. Revzen. "*Phase-based models of rhythmic systems.*" Dynamic Walking (2015). Columbus, OH.
+* M. Kvalheim and S. Revzen. "*Better models of rhythmic systems: predicting locomotion from phase alone.*" SICB Annual Meeting (2015). West Palm Beach, FL.
+* S. Revzen, S. A. Burden and M. Kvalheim. "*Why the trot?*" SICB Annual Meeting (2014). Austin, TX.-->
+
+<!--* M. Kvalheim and S. Revzen. "*Phase-based algorithm for modeling time-rescaling distortion of rhythmic data.*" University of Michigan Engineering Graduate Symposium (2014). Ann Arbor, MI.
+* M. Kvalheim and S. Revzen. "*A hybrid system provides a robust alternative to a linear regulator."* University of Michigan Engineering Graduate Symposium (2013). Ann Arbor, MI.
+* M. Kvalheim, R. Kollar, C. Moore, J. Belzer and M. Miltner. "*An indoor navigation device for use in GPS-denied environments.*" Ohio University Student Expo (2013). Athens, OH.-->
